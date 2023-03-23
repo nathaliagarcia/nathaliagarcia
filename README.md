@@ -50,14 +50,8 @@
 
 ------
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/nathaliagarcia/nathaliagarcia/blob/output/github-contribution-grid-snake.svg)
 
 ------
-
-[![](https://visitcount.itsvg.in/api?id=nathaliagarcia&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 [@nathaliagarcia](https://github.com/nathaliagarcia) - Last Edited on: 23/03/2023
