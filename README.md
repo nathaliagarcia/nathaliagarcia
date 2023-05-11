@@ -41,13 +41,6 @@
   </a>
 </p>
 
-<h3 align="left">Stats:</h3>
-
-<p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=nathaliagarcia&theme=tokyonight&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliagarcia&theme=tokyonight&layout=compact" />
-</p>
-
 ------
 
 ![snake gif](https://github.com/nathaliagarcia/nathaliagarcia/blob/output/github-contribution-grid-snake.svg)
