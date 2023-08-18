@@ -40,11 +40,3 @@
     <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindcss" width="40" height="40"/> 
   </a>
 </p>
-
-------
-
-![snake gif](https://github.com/nathaliagarcia/nathaliagarcia/blob/output/github-contribution-grid-snake.svg)
-
-------
-
-[@nathaliagarcia](https://github.com/nathaliagarcia) - Last Edited on: 23/03/2023
