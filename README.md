@@ -27,9 +27,6 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="vue" width="40" height="40"/> 
   </a>
-  <a href="https://pinia.vuejs.org/" target="_blank"> 
-    <img src="https://camo.githubusercontent.com/6a89c40d54fde3f7c40b827e46081e4057633764c07bc9bca4ed513689eb2a8e/68747470733a2f2f70696e69612e7675656a732e6f72672f6c6f676f2e737667" alt="pinia" width="40" height="40"/> 
-  </a>
   <a href="https://jestjs.io/pt-BR/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="jest" width="40" height="40"/> 
   </a>
